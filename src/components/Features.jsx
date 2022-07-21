@@ -22,7 +22,7 @@ const Features = () => {
     slider.classList.add("-translate-x-56");
   };
   return (
-    <div className="w-11/12 mx-auto mb-24 mb-56">
+    <div className="w-11/12 mx-auto mb-24 lg:mb-56">
       <h1 className="text-center text-3xl font-medium pt-8 pb-4 md:p-8">
         Features
       </h1>

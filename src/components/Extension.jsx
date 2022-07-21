@@ -27,7 +27,7 @@ const Extension = () => {
           <p className="font-semibold tracking-wide ">Add to Firefox</p>
           <p className="text-slate-600">Minimum Version 55</p>
           <hr className=" border-dashed mt-8" />
-          <button className="bg-blue-600 rounded-md p-2 text-white mt-6 text-sm p-4 border hover:text-blue-900 hover:border-blue-900 hover:bg-white">
+          <button className="bg-blue-600 rounded-md p-4 text-white mt-6 text-sm p-4 border hover:text-blue-900 hover:border-blue-900 hover:bg-white">
             Add &amp; Install Extension
           </button>
         </div>
